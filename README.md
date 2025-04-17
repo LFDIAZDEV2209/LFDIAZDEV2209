@@ -59,7 +59,7 @@ Grabadora de audio de escritorio desarrollada en Python con:
 ¿Quieres colaborar o hablar de tecnología? ¡Escríbeme!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazf7583@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-díaz-0b492b2bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-díaz-dev)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LFDIAZDEV2209&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Visitas al perfil" />
