@@ -9,54 +9,79 @@
 
 ---
 
-## 🙋🏻‍♂ Sobre Mí
+## 🙋🏻‍♂ About me
 
-Desarrollador FullStack con pasión por crear soluciones innovadoras. Actualmente enfocado en dominar React, TypeScript y Docker. Me caracterizo por mi capacidad de aprendizaje rápido y mi enfoque en escribir código limpio y escalable.
-
-## 🚀 Tecnologías que domino  
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+Hey there!, I'm Luis Felipe Diaz and I've been a Software Developer for +1 year. Currently working on an app that track document and parse it to great datatables for different clients. Lately, I've learnt a lot about automated process and IA so that helped me to get a better business analysis. I'm passionate about resolve issues and attend needs or especific requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
 
 ## 🔥 Proyectos Destacados
-### [**LICORES_SOFT**](https://github.com/LFDIAZDEV2209/LICORES_SOFT)
+### [**EXO TRACK**](https://github.com/LFDIAZDEV2209/exo-track-front)
   
 
-Sistema de gestión de inventario para licorerías con:
-- Registro de productos
-- Control de stock
-- Interfaz intuitiva
+Tax report tracking platform for Colombian accountants with:
+
+- Exogenous DIAN document processing
+- Structured data visualization in dynamic tables
+- Client authentication and role-based access
+- Income, assets, and liabilities management per declaration
+- REST-based architecture with mock and real backend support
 
 
-### [**VOICE_RECORDER**](https://github.com/LFDIAZDEV2209/voice-recorder)
+### [**Downloader Slides**](https://github.com/LFDIAZDEV2209/downloader-slides)
 
-Grabadora de audio de escritorio desarrollada en Python con:
-- Grabación en múltiples formatos
-- Interfaz de usuario sencilla
-- Opciones de configuración
+Python-based automation script for extracting public Prezi presentations as image sequences with:
 
-## 📈 Mis Principios de Desarrollo
-- ✔️ Código limpio y documentado
-- ✔️ Diseño responsive primero
-- ✔️ Mejora continua
-- ✔️ Trabajo en equipo
+- Automated browser control using Playwright
+- Sequential slide navigation and screenshot capture
+- Duplicate-frame detection to identify presentation end
+- Custom output directory and slide limit configuration
+- CLI-based execution for flexible usage
 
-## 📚 Actualmente aprendiendo
+## 📈 My Development Principles
+- ✔️ Clean code and documentated
+- ✔️ Responsive first
+- ✔️ Continuos Improve
+- ✔️ Team work
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+## 🚀 Tech Stack
+
+### 🧠 Programming Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+### ⚙️ Backend
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)](#)
+
+### 🎨 Frontend
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### 🗄️ Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+
+### 🛠️ Tools & Environment
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   
-## 📫 Contáctame
-¿Quieres colaborar o hablar de tecnología? ¡Escríbeme!
+## 📫 Contact me
+Do you want talk to me or speak about tech? Text me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diazf7583@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-díaz-dev)
