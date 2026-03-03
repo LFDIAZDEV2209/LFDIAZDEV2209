@@ -11,7 +11,7 @@
 
 ## 🙋🏻‍♂ About me
 
-Hey there!, I'm Luis Felipe Diaz and I've been a Software Developer for +1 year. Currently working on an app that tracks documents and parses them to great datatables for different clients. Lately, I've learnt a lot about automated processes and AI, which has helped me get a better business analysis. I'm passionate about solving issues and supporting especific needs or requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
+Hey there!, I'm [**Luis Felipe Diaz**](https://luis-diaz-dev.netlify.app) and I've been a Software Developer for +1 year. Currently working on an app that tracks documents and parses them to great datatables for different clients. Lately, I've learnt a lot about automated processes and AI, which has helped me get a better business analysis. I'm passionate about solving issues and supporting especific needs or requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
 
 ## 🔥 Top Projects
 ### [**EXO TRACK**](https://github.com/LFDIAZDEV2209/exo-track-front)
