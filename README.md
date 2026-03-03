@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Título animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=%C2%A1Hey,+there!%21+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Luis+Felipe+Diaz+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB%F0%9F%93%A6;Since+2025!+%F0%9F%8C%8D%F0%9F%97%BA;Continuos+learning+%F0%9F%93%9A%F0%9F%94%97" alt="Título animado" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey,+there!%21+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Luis+Felipe+Diaz+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB%F0%9F%93%A6;Since+2025!+%F0%9F%8C%8D%F0%9F%97%BA;Continuos+learning+%F0%9F%93%9A%F0%9F%94%97" alt="Título animado" />  
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 Hey there!, I'm Luis Felipe Diaz and I've been a Software Developer for +1 year. Currently working on an app that track document and parse it to great datatables for different clients. Lately, I've learnt a lot about automated process and IA so that helped me to get a better business analysis. I'm passionate about resolve issues and attend needs or especific requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
 
-## 🔥 Proyectos Destacados
+## 🔥 Top Projects
 ### [**EXO TRACK**](https://github.com/LFDIAZDEV2209/exo-track-front)
   
 
