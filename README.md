@@ -4,14 +4,14 @@
 
 <p align="center">
   <!-- Título animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey,+there!%21+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Luis+Felipe+Diaz+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB%F0%9F%93%A6;Since+2025!+%F0%9F%8C%8D%F0%9F%97%BA;Continuos+learning+%F0%9F%93%9A%F0%9F%94%97" alt="Título animado" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey,+there!%21+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Luis+Felipe+Diaz+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Developer+%F0%9F%92%BB%F0%9F%93%A6;Since+2021!+%F0%9F%8C%8D%F0%9F%97%BA;Continuos+learning+%F0%9F%93%9A%F0%9F%94%97" alt="Título animado" />  
 </p>
 
 ---
 
 ## 🙋🏻‍♂ About me
 
-Hey there!, I'm [**Luis Felipe Diaz**](https://luis-diaz-dev.netlify.app) and I've been a Software Developer for +3 year. Currently working on an app that tracks documents and parses them to great datatables for different clients. Lately, I've learnt a lot about automated processes and AI, which has helped me get a better business analysis. I'm passionate about solving issues and supporting especific needs or requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
+Hey there!, I'm [**Luis Felipe Diaz**](https://luis-diaz-dev.netlify.app) and I've been a Software Developer for +5 year. Currently working on an app that tracks documents and parses them to great datatables for different clients. Lately, I've learnt a lot about automated processes and AI, which has helped me get a better business analysis. I'm passionate about solving issues and supporting especific needs or requirements. Did you know? I'm training myself to work 100% in English as a Developer. Daily stack:
 
 ## 🔥 Top Projects
 ### [**EXO TRACK**](https://github.com/LFDIAZDEV2209/exo-track-front)
